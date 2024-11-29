@@ -1,30 +1,29 @@
 # Tribus Informatica Srl 🌍💻
 
-Benvenuti nel nostro profilo GitHub! Siamo **Tribus Informatica Srl**, un team appassionato e determinato a migliorare l'efficienza e la produttività delle aziende attraverso soluzioni tecnologiche innovative e accessibili. 🚀
+Welcome to our GitHub profile! We are **Tribus Informatica Srl**, a passionate and dedicated team committed to enhancing businesses' efficiency and productivity through innovative and accessible technological solutions. 🚀
 
 ## 🚀 Vision  
-**Migliorare l'esperienza lavorativa delle aziende** attraverso soluzioni informatiche innovative, semplici e accessibili, promuovendo un ambiente di lavoro più efficiente ed efficace.
+**Enhancing the workplace experience of businesses** through innovative, simple, and accessible IT solutions, promoting a more efficient and effective working environment.
 
 ## 🎯 Mission  
-Offriamo una **gamma completa di servizi informatici** dal buon rapporto qualità-prezzo, progettati per migliorare significativamente la qualità del lavoro delle aziende.  
-Attraverso interventi mirati, scalabili e sostenibili nel lungo periodo, ci impegniamo a fornire soluzioni a basso impatto che rispondano alle esigenze specifiche dei nostri clienti, contribuendo al loro successo e crescita continua.  
+We offer a **comprehensive range of IT services** with excellent value for money, designed to significantly improve the quality of work for businesses.  
+Through targeted, scalable, and sustainable interventions, we are committed to providing low-impact solutions that meet our clients' specific needs, contributing to their continuous success and growth.
 
 ---
 
-### 💼 **Cosa Facciamo**  
-- **Consulenza informatica** per migliorare l'efficienza aziendale.  
-- **Progettazione e sviluppo software** su misura.  
-- **Supporto sistemistico e infrastrutturale** per aziende di tutte le dimensioni.  
-- **Soluzioni cloud e networking** per una gestione moderna e flessibile.  
-- **Integrazione di sistemi complessi** per un'esperienza di lavoro fluida.
+### 💼 **What We Do**  
+- **IT consulting** to enhance business efficiency.  
+- **Custom software design and development.**  
+- **System and infrastructure support** for businesses of all sizes.  
+- **Cloud and networking solutions** for modern, flexible management.  
+- **Integration of complex systems** for a seamless workflow.
 
 ---
 
-### 📫 **Contattaci**  
-- **Telefono:** [0175 576419](tel:+390175576419)  
+### 📫 **Contact Us**  
+- **Phone:** [0175 576419](tel:+390175576419)  
 - **Email:** [info@tribusinformatica.com](mailto:info@tribusinformatica.com)  
-- **Sito web:** [www.tribusinformatica.it](https://www.tribusinformatica.it)  
+- **Website:** [www.tribusinformatica.it](https://www.tribusinformatica.it)  
 - **LinkedIn:** [Tribus Informatica Srl](https://www.linkedin.com/company/tribusinformatica)  
 
-Grazie per aver visitato il nostro profilo! 💡 Sentiti libero di esplorare i nostri progetti e collaborare con noi per portare innovazione alla tua azienda.
-
+Thank you for visiting our profile! 💡 Feel free to explore our projects and collaborate with us to bring innovation to your business.
